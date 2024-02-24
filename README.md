@@ -1,16 +1,28 @@
-### Hi there 👋
+## Who Am I?
 
-<!--
-**cagriaslan/cagriaslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **A Cyber Security expert with a decade of experience as a Product Manager, Threat Intelligence Analyst, Academic, Researcher, Entrepreneur, and Developer. I've made my mark in institutions across Turkey, the UK, and Germany. My passion lies in Product Management, Cyber Threat Intelligence, and Data Science.**
 
-Here are some ideas to get you started:
+🌟 **Product Manager & Threat Intelligence Analyst**  
+📱 Twitter: [@crbrksln](https://twitter.com/crbrksln)  
+🔗 LinkedIn: [cagriaslan](https://www.linkedin.com/in/cagriaslan/)  
+💼 ORCID: [0000-0003-0507-3922](https://orcid.org/0000-0003-0507-3922)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+🚀 **Product Manager & Threat Intelligence Analyst**  
+- Experienced Lead Threat Intelligence Analyst & Product Manager at STM Defense Technologies.
+- Expert in automating cyber threat intelligence with Python, ELK, and cutting-edge tools.
+- Generating in-depth cyber threat intelligence reports at all organizational levels.
+- Collaborating with incident response teams to fortify defenses using threat intel.
+- Leading web projects, defining vision, features, and roadmaps.
+
+🎓 **Cyber Security Educator**  
+- Guest Lecturer at TOBB University of Economics & Technology.
+- Teaching and mentoring graduate students in Cyber Threat Intelligence.
+- Former Visiting Researcher at iCSS, where we pioneered cyber security research recognized by GCHQ and EPSRC.
+- Served as a Research Assistant, advising on student projects and delivering various tech courses.
+
+## Strengths
+
+Python | Django | scikit-learn | pandas | numpy | ELK | Data Science | Web Services  
+Cyber Threat Intelligence | ETL | Machine Learning | Product Management  
