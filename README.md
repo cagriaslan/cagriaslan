@@ -9,7 +9,7 @@
 
 ## About Me
 
-🚀 **Technical Lead, Cyber Fusion Centre
+🚀 **Technical Lead, Cyber Fusion Centre**
 
 - Currently leading a team of security engineers and software developers to develop a cutting-edge cyber threat intelligence product.
 - Collaborating with incident response teams to fortify defenses using threat intel and automating intelligence workflows.
