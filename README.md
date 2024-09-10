@@ -9,6 +9,12 @@
 
 ## About Me
 
+🚀 **Technical Lead, Cyber Fusion Centre
+
+- Currently leading a team of security engineers and software developers to develop a cutting-edge cyber threat intelligence product.
+- Collaborating with incident response teams to fortify defenses using threat intel and automating intelligence workflows.
+- Developing and overseeing the architecture, capabilities, and integrations of the cyber threat intelligence product with other security tools.
+
 🚀 **Product Manager & Threat Intelligence Analyst**  
 - Experienced Lead Threat Intelligence Analyst & Product Manager at STM Defense Technologies.
 - Expert in automating cyber threat intelligence with Python, ELK, and cutting-edge tools.
