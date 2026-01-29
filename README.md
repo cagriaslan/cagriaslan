@@ -1,6 +1,6 @@
 ## Who Am I?
 
-🌐 **A Cyber Security expert with over a decade of experience across Security Strategy, Product Management, Cyber Threat Intelligence, Academia, Research, Entrepreneurship, and Software Development.**  
+🌐 A Cyber Security expert with over a decade of experience across Security Strategy, Product Management, Cyber Threat Intelligence, Academia, Research, Entrepreneurship, and Software Development.
 I have built and operated security products and programs in **Turkey, the UK, and Germany**, working at the intersection of engineering, intelligence, and product.
 
 My core interests focus on **Product Management, Cyber Threat Intelligence, Security Strategy, and Data Science**, with a strong emphasis on automation, scalable architectures, and measurable security outcomes.
